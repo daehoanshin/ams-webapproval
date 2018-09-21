@@ -36,7 +36,6 @@
 			<version>2.5</version>
 			<scope>provided</scope>
 		</dependency>
-<<<<<<< HEAD
 		<dependency>
 			<groupId>javax.servlet.jsp</groupId>
 			<artifactId>jsp-api</artifactId>
@@ -62,8 +61,6 @@
 			<scope>runtime</scope>
 		</dependency>
 
-=======
->>>>>>> master
 
 	</dependencies>
 	<build>
